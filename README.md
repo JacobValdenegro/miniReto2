@@ -1,6 +1,6 @@
 # miniReto2
 
-pagina:   http://3.142.68.198:3000/
+pagina:   xxxxxx
 
 GET /api/hello: Retorna un mensaje de saludo desde el servidor.
 
